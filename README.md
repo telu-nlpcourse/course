@@ -8,6 +8,7 @@ This is an introductory course on natural language processing. The NLP topic dea
 
 - Jurafsky, David, and James H. Martin. Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics and Speech Recognition. Upper Saddle River, NJ: Prentice-Hall, 2000. ISBN: 0130950696..
   Second Edition: http://www.deepsky.com/~merovech/voynich/voynich_manchu_reference_materials/PDFs/jurafsky_martin.pdf
+  
   Third Edition (draft): https://web.stanford.edu/~jurafsky/slp3/
 - http://www.nltk.org/book/
 
@@ -28,7 +29,7 @@ c. Hands-on on paper-pencil based exercise or live programming.
 ## 1. Lecture 1 - Introduction
 This lecture introduces the course and motivates why it is interesting to study language processing.
 
-[[slides]](Lecture%201a%20-%20Introduction.pdf)
+[[slides]](course/01_Lecture_Intro.pdf)
 
 # Weekly Assignments
 Python and NLTK introduction.
@@ -39,8 +40,6 @@ This lecture introduces the concept of Language Modeling (LM), the definition an
 
 
 ### Reading
-
-#### Embeddings Basics
 
 
 # Assessment & Scoring
