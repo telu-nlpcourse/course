@@ -33,6 +33,7 @@ This lecture introduces the course and motivates why it is interesting to study 
 
 # Weekly Assignments
 Python and NLTK introduction.
+[[description]](course/PythonIntroduction_NLP.pdf) Please do the exercise and answer the questions on no. 6 and 7!
 
 ## 2. Lecture 2 - Language Modeling
 This lecture introduces the concept of Language Modeling (LM), the definition and the computation of LM probability component (unigram, bigram, likelihood), LM development process, and LM evaluation.
