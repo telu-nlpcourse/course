@@ -21,9 +21,10 @@ This course is organised by Said Al Faraby and delivered by Ade Romadhony.
 # Timetable
 ## Lectures
 Lectures are held in KU3.09.17 room on Tuesdays, 08:30-11:00. Each meeting will contains three sections:
-a. Student presentation, 15-30', each student will be given chance to deliver a part of the topic of the week using their own style.
-b. Course material presentation by lecturer, 30-45'.
-c. Hands-on on paper-pencil based exercise or live programming.
+
+1. Student presentation, 15-30', each student will be given chance to deliver a part of the topic of the week using their own style.
+2. Course material presentation by lecturer, 30-45'.
+3. Hands-on on paper-pencil based exercise or live programming.
 
 # Lecture Materials
 ## 1. Lecture 1 - Introduction
@@ -31,7 +32,7 @@ This lecture introduces the course and motivates why it is interesting to study 
 
 [[slides]](course/01_Lecture_Intro.pdf)
 
-# Weekly Assignments
+### Weekly Assignments
 Python and NLTK introduction.
 [[description]](course/PythonIntroduction_NLP.pdf) Please do the exercise and answer the questions on no. 6 and 7!
 
