@@ -45,6 +45,35 @@ I used slide from Jurafsky and Manning NLP course, which can be found in https:/
 Building simple Language Model and the application: Poetry Generator.
 [[description]](https://github.com/telu-nlpcourse/assignment/tree/master/01_language_modeling) 
 
+## 3. Lecture 3 - POSTagging
+This lecture introduces the POSTag of words and the method on assigning POSTag to words.
+
+[[slides]](course/03_POSTagging.pdf)
+
+### Reading Materials
+[[Part-of-Speech-Tagging]](https://web.stanford.edu/~jurafsky/slp3/10.pdf) 
+
+### Weekly Assignments
+TODO
+
+## 4. Lecture 4 - POSTagging & Hidden Markov Model (HMM)
+
+## 5. Lecture 5 - Context Free Grammar
+
+## 6. Lecture 6 - Syntactic Parsing
+
+## 7. Lecture 7 - Probabilistic CFG
+
+## 8. Lecture 8 - Context Free Grammar
+
+## 9. Lecture 9 - Semantic Similarity: Semantic Vector
+
+## 10. Lecture 10 - Context Free Grammar
+
+## 11. Lecture 11 - Word Sense Disambiguation
+
+## 12. Lecture 12 - Text Classification: Logistic Regression, Naive Bayes
+
 
 # Assessment & Scoring
 The information of assesment and scoring is available on the Course Introduction slide.
