@@ -39,9 +39,11 @@ Python and NLTK introduction.
 ## 2. Lecture 2 - Language Modeling
 This lecture introduces the concept of Language Modeling (LM), the definition and the computation of LM probability component (unigram, bigram, likelihood), LM development process, and LM evaluation.
 
+I used slide from Jurafsky and Manning NLP course, which can be found in https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html
 
-
-### Reading
+### Weekly Assignments
+Building simple Language Model and the application: Poetry Generator.
+[[description]](https://github.com/telu-nlpcourse/assignment/tree/master/01_language_modeling) 
 
 
 # Assessment & Scoring
