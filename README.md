@@ -57,6 +57,18 @@ This lecture introduces the POSTag of words and the method on assigning POSTag t
 TODO
 
 ## 4. Lecture 4 - POSTagging & Hidden Markov Model (HMM)
+This lecture introduces the HMM method for assigning POSTag to words in a sentence.
+
+[[slides]](course/03_POSTagging.pdf)
+
+### Reading Materials
+[[Hidden-Markov-Models]](https://web.stanford.edu/~jurafsky/slp3/9.pdf) 
+[[POSTagging with HMM - Neubig's Tutorial]](http://www.phontron.com/slides/nlp-programming-en-04-hmm.pdf) 
+[[POSTagging-Algorithm-inclduing-Viterbi]](http://www.inf.ed.ac.uk/teaching/courses/inf2a/slides/2012_inf2a_L16_slides.pdf) 
+[[HMM Based POSTagger for Bahasa Indonesia]](https://www.researchgate.net/publication/209387036_HMM_Based_Part-of-Speech_Tagger_for_Bahasa_Indonesia) 
+
+### Weekly Assignments
+TODO
 
 ## 5. Lecture 5 - Context Free Grammar
 
