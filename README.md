@@ -71,23 +71,36 @@ This lecture introduces the HMM method for assigning POSTag to words in a senten
 [[HMM Based POSTagger for Bahasa Indonesia]](https://www.researchgate.net/publication/209387036_HMM_Based_Part-of-Speech_Tagger_for_Bahasa_Indonesia) 
 
 ### Weekly Assignments
-TODO
+MyPOSTagger
 
-## 5. Lecture 5 - Context Free Grammar
+## 5. Lecture 5 - Context Free Grammar, Syntactic Parsing
 
-## 6. Lecture 6 - Syntactic Parsing
+[[slides]](course/Lecture%204a%20CFG.pdf)
 
-## 7. Lecture 7 - Probabilistic CFG
+### Reading Materials
+[[Syntactic Parsing]](https://web.stanford.edu/~jurafsky/slp3/12.pdf) 
 
-## 8. Lecture 8 - Context Free Grammar
 
-## 9. Lecture 9 - Semantic Similarity: Semantic Vector
+## 6. Lecture 6 - Probabilistic CFG, CKY Algorithm
 
-## 10. Lecture 10 - Context Free Grammar
+[[slides]](course/Lecture%204b%20PCFG-CYK.pdf)
 
-## 11. Lecture 11 - Word Sense Disambiguation
+### Reading Materials
+[[Statistical Parsing]](https://web.stanford.edu/~jurafsky/slp3/13.pdf) 
+[[CYK Parsing Algorithm]](https://courses.engr.illinois.edu/cs373/sp2009/lectures/lect_15.pdf) 
 
-## 12. Lecture 12 - Text Classification: Logistic Regression, Naive Bayes
+## 7. Lecture 7 - Parser Evaluation, Lexicalized PCFG, Dependency Parsing Introduction
+
+[[slides]](course/07_Syntactic%20Parsing%20%E2%80%93%20Part%20III.pdf)
+
+### Reading Materials
+[[Dependency Parsing]](https://web.stanford.edu/~jurafsky/slp3/14.pdf) 
+
+## 8. Lecture 8 - Semantic Similarity: Semantic Vector
+
+## 9. Lecture 9 - Word Sense Disambiguation
+
+## 10. Lecture 10 - Text Classification: Logistic Regression, Naive Bayes
 
 
 # Assessment & Scoring
