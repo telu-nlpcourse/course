@@ -96,11 +96,24 @@ MyPOSTagger
 ### Reading Materials
 [[Dependency Parsing]](https://web.stanford.edu/~jurafsky/slp3/14.pdf) 
 
-## 8. Lecture 8 - Semantic Similarity: Semantic Vector
+## 8. Lecture 8 - Semantic Similarity: Vector Semantic
+### Reading Materials
+[[Vector Semantic]](https://web.stanford.edu/~jurafsky/slp3/slides/vector1.pdf) 
+[[Dense Vector]](https://web.stanford.edu/~jurafsky/slp3/slides/vector2.pdf) 
 
 ## 9. Lecture 9 - Word Sense Disambiguation
+### Reading Materials
+[[Intro and Similarity]](https://web.stanford.edu/~jurafsky/slp3/slides/Chapter18_introandsimilarity.pdf) 
+[[Word Sense Disambiguation]](https://web.stanford.edu/~jurafsky/slp3/slides/Chapter18.wsd.pdf) 
 
-## 10. Lecture 10 - Text Classification: Logistic Regression, Naive Bayes
+## 10. Lecture 10 - Text Classification
+### Reading Materials
+[[Text Classification using Naive Bayes]](https://web.stanford.edu/~jurafsky/slp3/slides/7_NB.pdf) 
+
+## 11. Lecture 11 - NLP Applications: Information Extraction, Question Answering System
+### Reading Materials
+[[Information Extraction]](https://web.stanford.edu/~jurafsky/slp3/21.pdf)
+[[Question Answering System]](https://web.stanford.edu/~jurafsky/slp3/28.pdf) 
 
 
 # Assessment & Scoring
