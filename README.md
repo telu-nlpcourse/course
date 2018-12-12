@@ -113,7 +113,7 @@ MyPOSTagger
 ## 11. Lecture 11 - NLP Applications: Information Extraction, Question Answering System
 ### Reading Materials
 [[Information Extraction]](https://web.stanford.edu/~jurafsky/slp3/21.pdf)
-[[Question Answering System]](https://web.stanford.edu/~jurafsky/slp3/28.pdf) 
+[[Question Answering System]](https://web.stanford.edu/class/cs124/lec/watsonqa.pdf) 
 
 
 # Assessment & Scoring
